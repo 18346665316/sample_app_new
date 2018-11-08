@@ -1,6 +1,8 @@
 source 'https://rubygems.org'
 # source  'http://ruby.taobao.org'
 gem 'rails', '5.1.4'
+gem 'bcrypt'
+gem 'rails-controller-testing'
 gem 'bootstrap-sass'   #3.2.0
 gem 'puma', '3.9.1'
 gem 'sass-rails', '5.0.6'
